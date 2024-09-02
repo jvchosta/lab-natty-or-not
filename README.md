@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# ENTREGA PROJETO NATURAL OU FAKE NATTY ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, tentei gerar um arquivo por IA o mais parecido possível com a realidade. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei o [ChatGpt](https://chatgpt.com/) para me ajudar com a lista das tecnologias que eu poderia usar. 
+Então utilizei o [ElevenLabs](https://elevenlabs.io/) para criar o áudio do vídeo e o [D-Id](https://studio.d-id.com/) para criar o vídeo do meu avatar. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Eu tinha a ideia de criar um vídeo de um rapaz falando uma apresentação básica pessoal, com elementos que se assemelham comigo.
+2. Então, pesquisei no [ChatGpt](https://chatgpt.com/) quais as ferramentas que eu poderia usar para a ideia que eu tinha.
+3. O [ChatGpt](https://chatgpt.com/) me deu as seguintes ferramentas: [ElevenLabs](https://elevenlabs.io/) e o [D-Id](https://studio.d-id.com/), que eu poderia usar de forma gratuita.
+4. Então formulei o roteiro e imputei no [ElevenLabs](https://elevenlabs.io/) com a voz que eu selecionei. Após pronto, baixei o arquivo MP3.
+5. Depois imputei no [D-Id](https://studio.d-id.com/) o áudio criado pelo [ElevenLabs](https://elevenlabs.io/) e selecionei qual avatar eu gostaria. Após validar o resultado, fiz download do vídeo final. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Estarei disponibilizando o tanto o vídeo, como o áudio aqui: 
+- [Áudio](https://github.com/jvchosta/lab-natty-or-not/blob/main/ElevenLabs_2024-09-02T22_25_59_Will_pre_s50_sb75_se0_b_m2.mp3)
+- [Vídeo](https://github.com/jvchosta/lab-natty-or-not/blob/main/Teste.mp4)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Ainda acho que a IA não consegue gerar algo TOTALMENTE realísta a ponto de enganar quem já está "vacinado", e acho que esse seja o maior desafio. Porém, evoluiu muito!
